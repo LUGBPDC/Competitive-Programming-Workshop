@@ -100,19 +100,19 @@ Goal: **Solve under time pressure**
 
 | Platform        | Best For                | Difficulty        |
 |-----------------|------------------------|-------------------|
-| LeetCode        | Interviews, structured learning | Beginner-friendly |
-| CSES Problem Set| Algorithm fundamentals  | Intermediate      |
-| Codeforces      | Regular contests        | All levels        |
+| [LeetCode](https://leetcode.com)        | Interviews, structured learning | Beginner-friendly |
+| [CSES Problem Set](https://cses.fi/problemset) | Algorithm fundamentals  | Intermediate      |
+| [Codeforces](https://codeforces.com)      | Regular contests        | All levels        |
 
 ### Books
 
 | Resource                     | Author/Source                       | Link                                    |
 |------------------------------|-------------------------------------|-----------------------------------------|
-| Competitive Programmer's Handbook | Antti Laaksonen               | cses.fi/book/book.pdf                   |
+| Competitive Programmer's Handbook | Antti Laaksonen               | [cses.fi/book/book.pdf](https://cses.fi/book/book.pdf) |
 | Introduction to Algorithms (CLRS) | Cormen, Leiserson, Rivest, Stein |                                         |
-| Programming Challenges       | Steven Skiena, Miguel Revilla       | cs.stonybrook.edu/~skiena/programming/  |
-| Looking for a Challenge      | Various Contest Writers              | mimuw.edu.pl                            |
-| CS Guide                     | Samuel Hsiang, Alexander Wei, Yang Liu | github.com/kartikkukreja/blog-codes   |
+| Programming Challenges       | Steven Skiena, Miguel Revilla       | [cs.stonybrook.edu/~skiena/programming/](https://www.cs.stonybrook.edu/~skiena/programming/)  |
+| Looking for a Challenge      | Various Contest Writers              | [mimuw.edu.pl](https://mimuw.edu.pl)    |
+| CS Guide                     | Samuel Hsiang, Alexander Wei, Yang Liu | [github.com/kartikkukreja/blog-codes](https://github.com/kartikkukreja/blog-codes) |
 
 ---
 
@@ -120,12 +120,12 @@ Goal: **Solve under time pressure**
 
 | Channel         | Focus Area          | Skill Level             | Link                  |
 |-----------------|--------------------|-------------------------|-----------------------|
-| takeUforward (Striver) | Complete DSA Course | Beginner to Advanced | youtube.com/@takeUforward |
-| NeetCode        | LeetCode Solutions  | Beginner to Intermediate| youtube.com/@NeetCode     |
-| NeetCodeIO      | Extended Tutorials  | Intermediate           | youtube.com/@NeetCodeIO   |
-| Abdul Bari      | Algorithm Fundamentals | Beginner              | youtube.com/@abdul_bari   |
-| Errichto        | Advanced Techniques | Advanced               | youtube.com/@Errichto     |
-| Algorithms Live!| Contest Problems    | Intermediate to Advanced | youtube.com/@AlgorithmsLive |
+| takeUforward (Striver) | Complete DSA Course | Beginner to Advanced | [youtube.com/@takeUforward](https://youtube.com/@takeUforward) |
+| NeetCode        | LeetCode Solutions  | Beginner to Intermediate| [youtube.com/@NeetCode](https://youtube.com/@NeetCode)     |
+| NeetCodeIO      | Extended Tutorials  | Intermediate           | [youtube.com/@NeetCodeIO](https://youtube.com/@NeetCodeIO) |
+| Abdul Bari      | Algorithm Fundamentals | Beginner              | [youtube.com/@abdul_bari](https://youtube.com/@abdul_bari)   |
+| Errichto        | Advanced Techniques | Advanced               | [youtube.com/@Errichto](https://youtube.com/@Errichto)     |
+| Algorithms Live!| Contest Problems    | Intermediate to Advanced | [youtube.com/@AlgorithmsLive](https://youtube.com/@AlgorithmsLive) |
 
 ---
 
@@ -133,11 +133,11 @@ Goal: **Solve under time pressure**
 
 | Platform      | Specialization         | Link                     |
 |---------------|-----------------------|--------------------------|
-| USACO Guide   | Contest Preparation   | usaco.guide              |
-| GeeksforGeeks | Theory + Practice     | geeksforgeeks.org        |
-| W3Schools DSA | Beginner Concepts     | w3schools.com/dsa        |
-| Programiz     | Visual Learning       | programiz.com/dsa        |
-| CP-Algorithms | Algorithm Reference   | cp-algorithms.com        |
+| USACO Guide   | Contest Preparation   | [usaco.guide](https://usaco.guide)              |
+| GeeksforGeeks | Theory + Practice     | [geeksforgeeks.org](https://geeksforgeeks.org)        |
+| W3Schools DSA | Beginner Concepts     | [w3schools.com/dsa](https://w3schools.com/dsa)        |
+| Programiz     | Visual Learning       | [programiz.com/dsa](https://programiz.com/dsa)        |
+| CP-Algorithms | Algorithm Reference   | [cp-algorithms.com](https://cp-algorithms.com)        |
 
 ---
 
@@ -145,11 +145,11 @@ Goal: **Solve under time pressure**
 
 | Resource             | Problems Count | Difficulty Range     | Link                        |
 |----------------------|---------------|---------------------|-----------------------------|
-| NeetCode 150         | 150 problems  | Easy to Hard        | neetcode.io/practice        |
-| Sean Prashad's Patterns | 169 problems | Easy to Hard      | seanprashad.com/leetcode-patterns |
-| CSES Problem Set     | 200+ problems | Easy to Expert      | cses.fi/problemset          |
-| LeetCode Top Interview Questions | 145 problems | Easy to Hard | leetcode.com/explore/interview |
-| Striver's SDE Sheet  | 191 problems  | Medium to Hard      | takeuforward.org/interviews/strivers-sde-sheet |
+| NeetCode 150         | 150 problems  | Easy to Hard        | [neetcode.io/practice](https://neetcode.io/practice)        |
+| Sean Prashad's Patterns | 169 problems | Easy to Hard      | [seanprashad.com/leetcode-patterns](https://seanprashad.com/leetcode-patterns) |
+| CSES Problem Set     | 200+ problems | Easy to Expert      | [cses.fi/problemset](https://cses.fi/problemset)          |
+| LeetCode Top Interview Questions | 145 problems | Easy to Hard | [leetcode.com/explore/interview](https://leetcode.com/explore/interview) |
+| Striver's SDE Sheet  | 191 problems  | Medium to Hard      | [takeuforward.org/interviews/strivers-sde-sheet](https://takeuforward.org/interviews/strivers-sde-sheet) |
 
 ---
 
@@ -157,21 +157,21 @@ Goal: **Solve under time pressure**
 
 | Platform     | Type        | Activity Level | Best For                | Link                  |
 |--------------|-------------|---------------|-------------------------|-----------------------|
-| Reddit r/leetcode   | Discussion Forum | Very Active    | Problem discussions, study groups | reddit.com/r/leetcode |
-| Reddit r/csMajors   | Career Forum    | Very Active    | Interview prep, career guidance   | reddit.com/r/csMajors |
-| Codeforces Blogs    | Technical Blogs | Active         | Algorithm tutorials, contest analysis | codeforces.com/blog   |
-| LeetCode Discuss    | Problem Discussion | Very Active    | Solution explanations, hints      | leetcode.com/discuss  |
+| Reddit r/leetcode   | Discussion Forum | Very Active    | Problem discussions, study groups | [reddit.com/r/leetcode](https://reddit.com/r/leetcode) |
+| Reddit r/csMajors   | Career Forum    | Very Active    | Interview prep, career guidance   | [reddit.com/r/csMajors](https://reddit.com/r/csMajors) |
+| Codeforces Blogs    | Technical Blogs | Active         | Algorithm tutorials, contest analysis | [codeforces.com/blog](https://codeforces.com/blog)   |
+| LeetCode Discuss    | Problem Discussion | Very Active    | Solution explanations, hints      | [leetcode.com/discuss](https://leetcode.com/discuss)  |
 | Discord Communities | Real-time Chat  | Active         | Live help, study partnerships      | Various servers       |
-| Stack Overflow     | Q&A Platform    | Very Active    | Technical implementation           | stackoverflow.com     |
+| Stack Overflow     | Q&A Platform    | Very Active    | Technical implementation           | [stackoverflow.com](https://stackoverflow.com)     |
 
 | Platform   | Problems | Community | Contests          | Best For                       | Link           |
 |------------|----------|-----------|-------------------|-------------------------------|----------------|
-| LeetCode   | 2,500+   | 12M+ users| Weekly/Biweekly   | Interview prep, pattern learning | leetcode.c   |
-| Codeforces | 8,000+   | 600K+ users| 2-3 times/week   | Contest practice, rating system  | codeforces    |
-| CodeChef   | 7,000+   | Active forums| Monthly         | Student-friendly contests        | codechef.c    |
-| AtCoder    | 3,000+   | Growing   | Weekly           | Clean problems, beginner contests | atcoder.jp    |
-| HackerRank | 1,000+   | Large     | Regular          | Structured learning paths        | hackerrank    |
-| TopCoder   | 2,000+   | Professional | Weekly SRM     | Advanced competitions            | topcoder.c    |
+| LeetCode   | 2,500+   | 12M+ users| Weekly/Biweekly   | Interview prep, pattern learning | [leetcode.com](https://leetcode.com)   |
+| Codeforces | 8,000+   | 600K+ users| 2-3 times/week   | Contest practice, rating system  | [codeforces.com](https://codeforces.com)    |
+| CodeChef   | 7,000+   | Active forums| Monthly         | Student-friendly contests        | [codechef.com](https://codechef.com)    |
+| AtCoder    | 3,000+   | Growing   | Weekly           | Clean problems, beginner contests | [atcoder.jp](https://atcoder.jp)    |
+| HackerRank | 1,000+   | Large     | Regular          | Structured learning paths        | [hackerrank.com](https://hackerrank.com)    |
+| TopCoder   | 2,000+   | Professional | Weekly SRM     | Advanced competitions            | [topcoder.com](https://topcoder.com)    |
 
 ---
 
@@ -179,10 +179,10 @@ Goal: **Solve under time pressure**
 
 | Type         | Resource              | Description                      | Link                       |
 |--------------|----------------------|----------------------------------|----------------------------|
-| Template Libraries | Competitive Programming Templates | Ready-to-use code snippets  | github.com/kth-competitive-programming |
-| Visualizers      | Algorithm Visualizer | Interactive algorithm demonstrations    | algorithm-visualizer.org   |
-| Reference        | Big-O Cheat Sheet   | Time/space complexity reference | bigocheatsheet.com         |
-| Practice Sheets  | A2OJ Ladders        | Graduated difficulty problem sets| a2oj.com/ladders           |
+| Template Libraries | Competitive Programming Templates | Ready-to-use code snippets  | [github.com/kth-competitive-programming](https://github.com/kth-competitive-programming) |
+| Visualizers      | Algorithm Visualizer | Interactive algorithm demonstrations    | [algorithm-visualizer.org](https://algorithm-visualizer.org)   |
+| Reference        | Big-O Cheat Sheet   | Time/space complexity reference | [bigocheatsheet.com](https://bigocheatsheet.com)         |
+| Practice Sheets  | A2OJ Ladders        | Graduated difficulty problem sets| [a2oj.com/ladders](https://a2oj.com/ladders)           |
 
 ---
 
