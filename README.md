@@ -15,7 +15,7 @@ When starting competitive programming, your choice of programming language signi
 
 | Language    | LeetCode Usefulness | Speed       | Learning Curve | Best For                                               |
 | ----------- | ------------------- | ----------- | -------------- | ------------------------------------------------------ |
-| Python      | Excellent           | Medium      | Easy           | Beginners, interviews, rapid prototyping               |
+| Python      | Excellent           | Slow-Medium      | Easy           | Beginners, interviews, rapid prototyping               |
 | C++         | Excellent           | Very Fast   | Hard           | Advanced users, contests, performance-critical problems |
 | Java        | Good                | Fast        | Medium         | Enterprise background, structured programming          |
 | JavaScript  | Moderate            | Medium      | Easy           | Web developers transitioning to algorithms             |
